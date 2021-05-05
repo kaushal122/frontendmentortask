@@ -1,0 +1,82 @@
+.attribution {
+  margin:70px;
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+body{
+  background-color: hsl(233, 47%, 7%);
+  font-family:'Inter',serif;
+  font-size: 15px;
+  font-weight:400;
+}
+.presentation{
+
+  background-color: hsl(244, 38%, 16%);
+  margin-left:15%;
+  margin-right:14%;
+  margin-top:5%;
+  margin-bottom:5%;
+  padding-top:0;
+  padding-bottom: 4.6%;
+}
+
+h1{
+  color:hsl(0, 0%, 100%);
+  padding-top:5%;
+  padding-left:5%;
+  width:40%;
+  line-height: 1.5;
+  font-weight:700;
+
+}
+.disc{
+  width:39%;
+  line-height: 1.5;
+  margin-left: 5%;
+  color:hsla(0, 0%, 100%, 0.75);
+}
+.statistics{
+  margin-left: 5%;
+  width:40%;
+  margin-top:5%;
+
+}
+td{
+  color:hsla(0, 0%, 100%);
+  padding-right:2rem;
+  font-size: 10px;
+}
+h3{
+  padding:0;
+  margin:0;
+  color: hsla(0, 0%, 100%, 0.6);
+  font-size: 20px;
+}
+
+
+.image{
+  margin-top:0;
+width:125%;
+height:200%;
+}
+.imagebox{
+  display:inline;
+
+  height:70%;
+  width:40%;
+  float: right;
+  margin:0 10% 0 0;
+
+}
+.footer{
+  position:absolute;
+  bottom:10px;
+  color:white;
+}
+a{
+  color:white;
+}
